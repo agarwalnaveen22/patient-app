@@ -1,7 +1,7 @@
 ## Install Dependencies
 `
-    yarn install
-    cd ios
+    yarn install && 
+    cd ios && 
     pod install
 `
 
